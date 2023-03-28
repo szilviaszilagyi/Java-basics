@@ -1,0 +1,4 @@
+Total test case number to run: 24
+Count off passed tests: 16 ratio: 66 %.
+Count off failed tests: 4 ratio: 16%.
+Count off skipped tests: 4 ratio: 16%

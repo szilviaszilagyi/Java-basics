@@ -1,0 +1,2 @@
+Number of Michelin stars restaurant: 8 Total number of votes (from list): 129 Total number of votes (from map): 123
+ Result: {Salt=17, Stand=24, Rumour=16, Babel=11, Borkonyha=14, Costes=13, 42=15, Platán=13}

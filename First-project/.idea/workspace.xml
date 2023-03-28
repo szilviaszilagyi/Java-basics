@@ -39,18 +39,11 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task2_a_arg">
+  <component name="RunManager" selected="Application.Task85_exceptions">
     <configuration name="JavaArguments" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaArguments" />
       <module name="First-project" />
       <option name="PROGRAM_PARAMETERS" value="Lillien 152480000" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExceptions" />
-      <module name="First-project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,6 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task85_exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task85_exceptions" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.JavaArguments" />
       <item itemvalue="Application.Task2_a_arg" />
@@ -169,19 +169,19 @@
       <item itemvalue="Application.Task30_b_agr_hetnapjai" />
       <item itemvalue="Application.Task59_gondoltam1szamra" />
       <item itemvalue="Application.Task7_b_arg_het_napjai" />
-      <item itemvalue="Application.JavaExceptions" />
       <item itemvalue="Application.JavaIteration" />
       <item itemvalue="Application.JavaLocalDate" />
       <item itemvalue="Application.JavaLocalDateTime" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Task85_exceptions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task85_exceptions" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaLocalDateTime" />
         <item itemvalue="Application.JavaLocalDate" />
         <item itemvalue="Application.JavaIteration" />
-        <item itemvalue="Application.JavaExceptions" />
       </list>
     </recent_temporary>
   </component>

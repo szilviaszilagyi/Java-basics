@@ -1,0 +1,1 @@
+Number of different titles: 18 Total number of books (from list): 45 Total number of books (from map): 54

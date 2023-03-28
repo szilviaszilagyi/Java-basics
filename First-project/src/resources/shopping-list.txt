@@ -1,0 +1,6 @@
+kifli 6db
+tej 2db
+alma 8db
+barmi 3 db
+lofasz 1db
+jjfr 4 db
