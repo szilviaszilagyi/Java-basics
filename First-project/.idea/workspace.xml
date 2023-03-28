@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46df59bc-09cd-4e36-a6f6-35e235eeb0f6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJtb12XpjBdBQYFIdukQHnoQVf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/DELL/Progmatic Test Automation/MY REPO/Java-basics/First-project",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Task2_a_arg">
+    <configuration name="JavaArguments" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArguments" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="Lillien 152480000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExceptions" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaIteration" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLocalDate" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaLocalDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLocalDateTime" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task106_Enum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.Task106_Enum" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="51" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.Task107_Enum_orderStatus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2_a_arg" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_a_arg" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="148 58" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task30_b_agr_hetnapjai" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task30_b_agr_hetnapjai" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="Monday Tuesday Wednesday Thursday Friday Saturday Sunday" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_a_arg_szorzas" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3_a_arg_szorzas" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="12 8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task59_gondoltam1szamra" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task59_gondoltam1szamra" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task78_String_startsWithMethods" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task78_String_startsWithMethods" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task78_String_startsWithMethods_arg" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task78_String_startsWithMethods_arg" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="almadarab alma" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7_b_arg_het_napjai" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7_b_arg_het_napjai" />
+      <module name="First-project" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task84_exceptions" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task84_exceptions" />
+      <module name="First-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaArguments" />
+      <item itemvalue="Application.Task2_a_arg" />
+      <item itemvalue="Application.Task78_String_startsWithMethods" />
+      <item itemvalue="Application.Task106_Enum" />
+      <item itemvalue="Application.Task3_a_arg_szorzas" />
+      <item itemvalue="Application.Task84_exceptions" />
+      <item itemvalue="Application.Task78_String_startsWithMethods_arg" />
+      <item itemvalue="Application.Task30_b_agr_hetnapjai" />
+      <item itemvalue="Application.Task59_gondoltam1szamra" />
+      <item itemvalue="Application.Task7_b_arg_het_napjai" />
+      <item itemvalue="Application.JavaExceptions" />
+      <item itemvalue="Application.JavaIteration" />
+      <item itemvalue="Application.JavaLocalDate" />
+      <item itemvalue="Application.JavaLocalDateTime" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JavaLocalDateTime" />
+        <item itemvalue="Application.JavaLocalDate" />
+        <item itemvalue="Application.JavaIteration" />
+        <item itemvalue="Application.JavaExceptions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46df59bc-09cd-4e36-a6f6-35e235eeb0f6" name="Changes" comment="" />
+      <created>1668015095251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668015095251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/First_project$Task15_ciklus_dobokocka.ic" NAME="Task15_ciklus_dobokocka Coverage Results" MODIFIED="1668286293201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
