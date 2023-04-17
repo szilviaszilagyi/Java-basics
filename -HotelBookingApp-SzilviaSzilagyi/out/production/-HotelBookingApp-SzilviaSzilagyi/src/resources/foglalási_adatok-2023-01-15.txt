@@ -1,0 +1,6 @@
+Number of guest: 2
+Staying days: 4
+Breakfast choice: y
+Name of booking: jhj
+Room: standard
+Extra bed choice: y

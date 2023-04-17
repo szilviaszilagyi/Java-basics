@@ -1,0 +1,6 @@
+Number of guest: 2
+Staying days: 5
+Breakfast choice: y
+Name of booking: MolliMiyuPihen
+Room: king
+Extra bed choice: n

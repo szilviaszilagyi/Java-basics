@@ -1,0 +1,6 @@
+Number of guest: 3
+Staying days: 4
+Breakfast choice: y
+Name of booking: molli
+Room: king
+Extra bed choice: n
