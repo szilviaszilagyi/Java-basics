@@ -1,0 +1,27 @@
+Adults{age=54, name='Sándor', presentType='null'}: electric devicesKids{age=3, name='Janika', presentType='null'}: toyKids{age=3, name='Janika', presentType='null'}: home made giftKids{age=3, name='Janika', presentType='null'}: electric devicesTeenagers{age=16, name='Kloé', presentType='null'}: toyTeenagers{age=16, name='Kloé', presentType='null'}: home made giftTeenagers{age=16, name='Kloé', presentType='null'}: electric devicesAdults{age=54, name='Sándor', presentType='null'}: toyAdults{age=54, name='Sándor', presentType='null'}: home made giftAdults{age=54, name='Sándor', presentType='null'}: electric devicesKids{age=3, name='Janika', presentType='null'}: Very impressed.Kids{age=3, name='Janika', presentType='null'}: Mommy, I don't want it!Kids{age=3, name='Janika', presentType='null'}: Oh, what is this?Teenagers{age=16, name='Kloé', presentType='null'}: I think I'm not a kid!Teenagers{age=16, name='Kloé', presentType='null'}: Nice but old fashioned!Teenagers{age=16, name='Kloé', presentType='null'}: Oh, I'm very happy for that!Adults{age=54, name='Sándor', presentType='null'}: I think I'm not a kid!Adults{age=54, name='Sándor', presentType='null'}: Very impressed.Adults{age=54, name='Sándor', presentType='null'}: Oh, I'm very happy for that!Kids{age=3, name='Janika', presentType='null'}: Very impressed./nKids{age=3, name='Janika', presentType='null'}: Mommy, I don't want it!/nKids{age=3, name='Janika', presentType='null'}: Oh, what is this?/nTeenagers{age=16, name='Kloé', presentType='null'}: I think I'm not a kid!/nTeenagers{age=16, name='Kloé', presentType='null'}: Nice but old fashioned!/nTeenagers{age=16, name='Kloé', presentType='null'}: Oh, I'm very happy for that!/nAdults{age=54, name='Sándor', presentType='null'}: I think I'm not a kid!/nAdults{age=54, name='Sándor', presentType='null'}: Very impressed./nAdults{age=54, name='Sándor', presentType='null'}: Oh, I'm very happy for that!/nKids{age=3, name='Janika', presentType='null'}: Very impressed.
+Kids{age=3, name='Janika', presentType='null'}: Mommy, I don't want it!
+Kids{age=3, name='Janika', presentType='null'}: Oh, what is this?
+Teenagers{age=16, name='Kloé', presentType='null'}: I think I'm not a kid!
+Teenagers{age=16, name='Kloé', presentType='null'}: Nice but old fashioned!
+Teenagers{age=16, name='Kloé', presentType='null'}: Oh, I'm very happy for that!
+Adults{age=54, name='Sándor', presentType='null'}: I think I'm not a kid!
+Adults{age=54, name='Sándor', presentType='null'}: Very impressed.
+Adults{age=54, name='Sándor', presentType='null'}: Oh, I'm very happy for that!
+Kids{age=3, name='Janika', presentType='null'}: Very impressed.
+Kids{age=3, name='Janika', presentType='null'}: Mommy, I don't want it!
+Kids{age=3, name='Janika', presentType='null'}: Oh, what is this?
+Teenagers{age=16, name='Kloé', presentType='null'}: I think I'm not a kid!
+Teenagers{age=16, name='Kloé', presentType='null'}: Nice but old fashioned!
+Teenagers{age=16, name='Kloé', presentType='null'}: Oh, I'm very happy for that!
+Adults{age=54, name='Sándor', presentType='null'}: I think I'm not a kid!
+Adults{age=54, name='Sándor', presentType='null'}: Very impressed.
+Adults{age=54, name='Sándor', presentType='null'}: Oh, I'm very happy for that!
+Kids{age=3, name='Janika', presentType='null'}: Very impressed.
+Kids{age=3, name='Janika', presentType='toy'}: Mommy, I don't want it!
+Kids{age=3, name='Janika', presentType='home made gift'}: Oh, what is this?
+Teenagers{age=16, name='Kloé', presentType='null'}: I think I'm not a kid!
+Teenagers{age=16, name='Kloé', presentType='toy'}: Nice but old fashioned!
+Teenagers{age=16, name='Kloé', presentType='home made gift'}: Oh, I'm very happy for that!
+Adults{age=54, name='Sándor', presentType='null'}: I think I'm not a kid!
+Adults{age=54, name='Sándor', presentType='toy'}: Very impressed.
+Adults{age=54, name='Sándor', presentType='home made gift'}: Oh, I'm very happy for that!
